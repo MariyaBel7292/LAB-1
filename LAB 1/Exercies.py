@@ -1,7 +1,6 @@
 #Python SYNTAX
 #Ex1
-print
-("Hello World")
+print("Hello World")
 
 #Ex2
 if 5 > 2:
@@ -153,10 +152,3 @@ txt = txt.replace("H", "J")
 age = 36
 txt = "My name is John, and I am {}"
 print(txt.format(age))
-
-
-
-
-
-
-
